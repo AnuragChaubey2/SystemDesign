@@ -1,4 +1,4 @@
-class SnakeAndLadder{
+class SnakeAndLadderBoard{
     private int size;
     private List<Snake> snake;
     private List<Ladder> ladder;
